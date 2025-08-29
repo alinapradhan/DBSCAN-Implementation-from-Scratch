@@ -20,7 +20,7 @@ The notebook demonstrates how DBSCAN works, step by step, with visualizations an
 ## Example Output
 * Clusters formed based on density
 * Noise points correctly identified
-* Visual comparison with `scikit-learn` DBSCAN
+* Visual comparison with scikit-learn DBSCAN
 
 
 
