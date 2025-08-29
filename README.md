@@ -20,10 +20,3 @@ This repository provides a Python implementation of the **DBSCAN (Density-Based 
 * Clusters formed based on density
 * Noise points correctly identified
 * Visual comparison with scikit-learn DBSCAN
-
-
-
----
-
-Do you want me to also **convert your notebook into a `.py` script** (clean implementation without Jupyter cells) so the repo looks more polished?
-```
