@@ -1,8 +1,7 @@
 
 # DBSCAN Implementation from Scratch
 
-This repository provides a Python implementation of the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm.  
-The notebook demonstrates how DBSCAN works, step by step, with visualizations and comparison against scikit-learn's implementation.
+This repository provides a Python implementation of the **DBSCAN (Density-Based Spatial Clustering of Applications with Noise)** algorithm.The notebook demonstrates how DBSCAN works, step by step, with visualizations and comparison against scikit-learn's implementation.
 
 ## Features
 - Custom implementation of DBSCAN from scratch  
